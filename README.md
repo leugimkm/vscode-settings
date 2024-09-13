@@ -2,6 +2,11 @@
 
 # Visual Studio Code (VS Code) Settings
 
+## Profiles
+
+- [Base Python](profiles/base_python/)
+- [Base Writer](profiles/base_writer/)
+
 - [Keybidings](/keybindings.json)
 
 ## Extensions
