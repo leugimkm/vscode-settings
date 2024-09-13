@@ -2,6 +2,11 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/leugimkm/vscode-settings)
 
+## Fonts
+
+- Editor: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- Terminal: [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+
 ## Profiles
 
 - Base Python:
