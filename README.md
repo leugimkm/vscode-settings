@@ -5,3 +5,6 @@
 - [Keybidings](/keybindings.json)
 
 ## Extensions
+
+- [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
+  Vim emulator.
