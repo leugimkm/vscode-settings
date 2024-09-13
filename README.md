@@ -16,11 +16,10 @@
 - Keybindings to all profiles:
   - [Keybindings](/keybindings.json)
 
-## Extensions
-
-Extensions across all profiles.
-
-- [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
-  Vim emulator.
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
-  An opinionated code formatter.
+> [!NOTE]
+> Extensions across all profiles.
+>
+> - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
+>   Vim emulator.
+> - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
+>   An opinionated code formatter.
