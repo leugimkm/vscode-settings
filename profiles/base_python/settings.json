@@ -68,6 +68,7 @@
   "vim.useCtrlKeys": true,
   "vim.incsearch": true,
   "vim.leader": "<Space>",
+  "vim.smartRelativeLine": true,
   "vim.handleKeys": {
     "<C-a>": false,
     "<C-p>": false,
