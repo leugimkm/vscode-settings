@@ -1,3 +1,15 @@
 {
-  "recommendations": ["vscodevim.vim", "esbenp.prettier-vscode"]
+  "recommendations": [
+    "njpwerner.autodocstring",
+    "teabyii.ayu",
+    "formulahendry.code-runner",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-renders",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "donjayamanne.python-environment-manager",
+    "charliermarsh.ruff",
+    "vscodevim.vim"
+  ]
 }
