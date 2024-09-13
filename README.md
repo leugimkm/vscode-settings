@@ -9,12 +9,16 @@
 
 ## Profiles
 
+> [!TIP]
+> Profiles allow you customize your development environment for different projects or tasks.
+
 - Base Python:
   - [settings](profiles/base_python/settings.json), [extensions](profiles/base_python/extensions.json)
 - Base Writer:
   - [settings](profiles/base_writer/settings.json), [extensions](profiles/base_writer/extensions.json)
-- Keybindings to all profiles:
-  - [Keybindings](/keybindings.json)
+
+> [!IMPORTANT]
+> Keybindings to all profiles: [Keybindings](/keybindings.json)
 
 > [!NOTE]
 > Extensions across all profiles.
