@@ -10,9 +10,9 @@
 ## Profiles
 
 - Base Python:
-  - [settings](profiles/base_python/settings.json)
+  - [settings](profiles/base_python/settings.json), [extensions](profiles/base_python/extensions.json)
 - Base Writer:
-  - [settings](profiles/base_writer/settings.json)
+  - [settings](profiles/base_writer/settings.json), [extensions](profiles/base_writer/extensions.json)
 - Keybindings to all profiles:
   - [Keybindings](/keybindings.json)
 
