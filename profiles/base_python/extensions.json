@@ -11,5 +11,6 @@
     "donjayamanne.python-environment-manager",
     "charliermarsh.ruff",
     "vscodevim.vim"
-  ]
+  ],
+  "unwantedRecommendations": []
 }

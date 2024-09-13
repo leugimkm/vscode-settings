@@ -15,5 +15,6 @@
     "vscodevim.vim",
     "vscode-icons-team.vscode-icons",
     "ms-vscode.wordcount"
-  ]
+  ],
+  "unwantedRecommendations": []
 }
