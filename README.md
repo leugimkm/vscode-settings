@@ -11,6 +11,7 @@
 
 > [!TIP]
 > Profiles allow you customize your development environment for different projects or tasks.
+> For more details, visit this [link](https://code.visualstudio.com/docs/editor/profiles).
 
 - Base Python:
   - [settings](profiles/base_python/settings.json), [extensions](profiles/base_python/extensions.json)
