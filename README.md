@@ -25,3 +25,5 @@
 >     Vim emulator.
 >   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
 >     An opinionated code formatter.
+>   - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols):
+>     A simple file icon theme.

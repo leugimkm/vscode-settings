@@ -20,7 +20,7 @@
   "workbench.colorTheme": "Ayu Dark",
   "workbench.editor.enablePreview": false,
   "workbench.editor.showTabs": "none",
-  "workbench.iconTheme": "ayu",
+  "workbench.iconTheme": "symbols",
   "workbench.layoutControl.enabled": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.sideBar.location": "right",
@@ -76,5 +76,9 @@
     "<C-f>": false
   },
   "workbench.activityBar.location": "hidden",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "workbench.colorCustomizations": {
+    "statusBarItem.remoteForeground": "#dbcece00",
+    "statusBarItem.remoteBackground": "#27252300"
+  }
 }

@@ -17,7 +17,7 @@
   "editor.scrollbar.verticalScrollbarSize": 6,
   "workbench.colorTheme": "Shades of Purple (Super Dark)",
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "symbols",
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
   "window.commandCenter": false,
@@ -42,5 +42,9 @@
     "<C-p>": false,
     "<C-b>": false,
     "<C-f>": false
+  },
+  "workbench.colorCustomizations": {
+    "statusBarItem.remoteForeground": "#dbcece00",
+    "statusBarItem.remoteBackground": "#27252300"
   }
 }

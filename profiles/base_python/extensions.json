@@ -10,7 +10,8 @@
     "ms-python.debugpy",
     "donjayamanne.python-environment-manager",
     "charliermarsh.ruff",
-    "vscodevim.vim"
+    "vscodevim.vim",
+    "miguelsolorio.symbols"
   ],
   "unwantedRecommendations": []
 }
