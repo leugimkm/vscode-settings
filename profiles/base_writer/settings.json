@@ -47,6 +47,7 @@
     "<C-f>": false
   },
   "workbench.colorCustomizations": {
+    "sideBarTitle.foreground": "#27252300",
     "statusBarItem.remoteForeground": "#dbcece00",
     "statusBarItem.remoteBackground": "#27252300"
   }
