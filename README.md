@@ -9,7 +9,8 @@
 > For more details, visit this [link]("https://code.visualstudio.com/docs/editor/profiles").
 
 - Base Python:
-  - [settings.json](profiles/base_python/settings.json), [extensions.json](profiles/base_python/extensions.json)
+  - [settings.json](profiles/base_python/settings.json), [extensions.json](profiles/base_python/extensions.json),
+    [snippets/python.json](profiles/base_python/snippets/python.json)
 - Base Writer:
   - [settings.json](profiles/base_writer/settings.json), [extensions.json](profiles/base_writer/extensions.json)
 
