@@ -19,8 +19,8 @@
 
 > [!NOTE]
 >
-> - Editor: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-> - Terminal: [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+> - Editor: [SauceCodePro NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/SourceCodePro.zip)
+> - Terminal: [CaskaydiaCove NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/CascadiaCode.zip)
 > - Extensions across all profiles.
 >   - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
 >     Vim emulator.

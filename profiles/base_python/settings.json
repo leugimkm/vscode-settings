@@ -1,7 +1,7 @@
 {
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.cursorSurroundingLines": 8,
-  "editor.fontFamily": "Source Code Pro",
+  "editor.fontFamily": "SauceCodePro Nerd Font Mono",
   "editor.fontSize": 16,
   "editor.glyphMargin": false,
   "editor.guides.indentation": false,
@@ -39,7 +39,7 @@
   "interactiveWindow.executeWithShiftEnter": true,
   "terminal.integrated.defaultLocation": "editor",
   "terminal.integrated.focusAfterRun": "terminal",
-  "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+  "terminal.integrated.fontFamily": "CaskaydiaCove NFM",
   "terminal.integrated.fontSize": 16,
   "breadcrumbs.enabled": false,
   "[python]": {
