@@ -57,13 +57,13 @@
     "when": "vim.mode == 'Normal' && (editorTextFocus || !inputFocus)"
   },
   {
-    "key": "shift+l",
-    "command": "workbench.action.nextEditorInGroup",
+    "key": "ctrl+shift+h",
+    "command": "workbench.action.previousEditorInGroup",
     "when": "(vim.mode == 'Normal' || vim.mode == 'Visual') && (editorTextFocus || !inputFocus)"
   },
   {
-    "key": "shift+h",
-    "command": "workbench.action.previousEditorInGroup",
+    "key": "ctrl+shift+l",
+    "command": "workbench.action.nextEditorInGroup",
     "when": "(vim.mode == 'Normal' || vim.mode == 'Visual') && (editorTextFocus || !inputFocus)"
   },
   {
