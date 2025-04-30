@@ -75,7 +75,7 @@
     "<C-b>": false,
     "<C-f>": false
   },
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "top",
   "workbench.statusBar.visible": false,
   "workbench.colorCustomizations": {
     "editorRuler.foreground": "#665c541a",
