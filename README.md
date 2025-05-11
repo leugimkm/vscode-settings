@@ -1,35 +1,39 @@
 # Visual Studio Code (VS Code) Settings
 
+![Github license](https://img.shields.io/github/license/leugimkm/vscode-settings)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leugimkm/vscode-settings)
 
 ## Profiles
 
 > [!TIP]
-> Profiles allow you customize your development environment for different projects or tasks.
-> For more details, visit this [link]("https://code.visualstudio.com/docs/editor/profiles").
+> ***Profiles*** allow you to customize your development environment for different projects or tasks.
+> For more details, visit [this link]("https://code.visualstudio.com/docs/editor/profiles").
 
-- Base Python:
+- _Base Python_ (tailored for Python development):
   - [settings.json](profiles/base_python/settings.json), [extensions.json](profiles/base_python/extensions.json),
     [snippets/python.json](profiles/base_python/snippets/python.json)
-- Base Writer:
+- _Base Writer_ (optimized for writing and content editing):
   - [settings.json](profiles/base_writer/settings.json), [extensions.json](profiles/base_writer/extensions.json)
 
-> [!IMPORTANT]
-> Keybindings to all profiles: [keybindings.json](/keybindings.json)
+## Global Settings
 
 > [!NOTE]
->
-> - Editor: [SauceCodePro NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/SourceCodePro.zip)
-> - Terminal: [CaskaydiaCove NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/CascadiaCode.zip)
-> - Extensions across all profiles.
->   - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
->     Vim emulator.
->   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
->     An opinionated code formatter.
->   - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols):
->     A simple file icon theme.
+> Common configurations across all _profiles_
+
+- _Editor_: [SauceCodePro NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/SourceCodePro.zip)
+- _Terminal_: [CaskaydiaCove NFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/CascadiaCode.zip)
+- _Extensions_ used in all profiles:
+  - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim):
+    Vim emulator.
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
+    An opinionated code formatter.
+  - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols):
+    A simple file icon theme.
 
 ## Keybindings Overview
+
+> [!IMPORTANT]
+> Keybindings for all _profiles_: [keybindings.json](/keybindings.json)
 
 | Command                     | Key                    | Command id                                    |
 |----------------------------:|:----------------------:|-----------------------------------------------|
